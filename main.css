@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    border-radius: 40px;
+background: rgb(52, 60, 86);
+}
+.mars{
+    padding-top: 49px;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.item{
+    width: 200px;
+    border-radius: 30px;
+    background-color: red;
+    text-align: center;
+    padding: 14px 0;
+}
+.link{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+.nani{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+.mamaaaaaaaaaaa{
+    color: white;
+    width: 264px;
+    height: 48px;
+    background-color: black;
+    text-align: center;
+    margin: 0 600px;
+    border-radius: 25px;
+}
+.dominos.pizza{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mat{
+display: flex;
+justify-content: space-evenly;
+border-color: red;
+gap: 200px;
+}
+.meysi{
+margin: 60px;
+color: rgb(0, 0, 0);
+font-size: 12px;
+text-align: center;
+background-color: aqua;
+width: 500px;
+height: 150px;
+border-radius: 50px;
+border: 45px solid red;
+}
